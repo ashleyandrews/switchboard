@@ -1,0 +1,23 @@
+*{
+    background-color: #DDDDDD;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+.header{
+    font-size: 50px;
+    text-align: center;
+}
+.switchboard{
+    text-align: center;
+    font-size: 30px;
+}
+.directions{
+    text-align: center;
+    font-size: 20px;
+}
+.ON{
+    color: green;
+}
+.OFF{
+    color: red;
+}
